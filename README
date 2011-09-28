@@ -1,0 +1,5 @@
+Simple python/gtk based script that swaps out OPF identifiers for new UUID identifers (and can swap them back again).
+
+This will rehash your iTunes meta data according to this blog(http://web.me.com/david.mundie/Linden_Log/Blog/Entries/2010/6/2_Dealing_with_iBooks_Caching.html), and get iBooks to see a different file (i.e. no horrible caching or black screens).
+
+Hopefully should save people some time, however bare in mind that this tool has no error reporting as of yet, and could possibly make a real mess of things (make copies! we would not like to be held responsible for destroying all your work!).
